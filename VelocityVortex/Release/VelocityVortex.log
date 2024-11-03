@@ -1,0 +1,69 @@
+﻿  Game.cpp
+D:\VelocityVortex\Track.h(52,24): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Game.cpp')
+  
+D:\VelocityVortex\Track.h(67,37): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+D:\VelocityVortex\Track.h(79,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+D:\VelocityVortex\Track.h(80,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+D:\VelocityVortex\Track.h(81,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+D:\VelocityVortex\Track.h(82,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+D:\VelocityVortex\Game.cpp(85,51): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\VelocityVortex\Game.cpp(188,90): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\VelocityVortex\Game.cpp(189,89): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\VelocityVortex\Game.cpp(220,54): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\VelocityVortex\Game.cpp(224,44): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\VelocityVortex\Game.cpp(227,28): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\VelocityVortex\Game.cpp(299,24): warning C4305: '+=': truncation from 'double' to 'float'
+  Menu.cpp
+D:\VelocityVortex\Menu.cpp(53,51): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\VelocityVortex\Menu.cpp(54,51): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\VelocityVortex\Menu.cpp(50,18): warning C4101: 'bgimage': unreferenced local variable
+  VelocityVortex.cpp
+Game.obj : error LNK2001: unresolved external symbol _Mix_FreeMusic
+Game.obj : error LNK2001: unresolved external symbol _SDL_DestroyTexture
+Game.obj : error LNK2001: unresolved external symbol _SDL_GetKeyboardState
+Game.obj : error LNK2001: unresolved external symbol _SDL_RenderCopy
+Game.obj : error LNK2001: unresolved external symbol _SDL_RenderClear
+Game.obj : error LNK2001: unresolved external symbol _Mix_OpenAudio
+Game.obj : error LNK2001: unresolved external symbol _SDL_DestroyRenderer
+Game.obj : error LNK2001: unresolved external symbol _SDL_Init
+Game.obj : error LNK2001: unresolved external symbol _Mix_Quit
+Game.obj : error LNK2001: unresolved external symbol _SDL_DestroyWindow
+Game.obj : error LNK2001: unresolved external symbol _SDL_GetError
+Game.obj : error LNK2001: unresolved external symbol _SDL_Quit
+Game.obj : error LNK2001: unresolved external symbol _SDL_Delay
+Game.obj : error LNK2001: unresolved external symbol _Mix_PauseMusic
+Game.obj : error LNK2001: unresolved external symbol _Mix_ResumeMusic
+Game.obj : error LNK2001: unresolved external symbol _TTF_Init
+Game.obj : error LNK2001: unresolved external symbol _TTF_RenderText_Solid
+Game.obj : error LNK2001: unresolved external symbol _SDL_GetMouseState
+Game.obj : error LNK2001: unresolved external symbol _SDL_HasIntersection
+Game.obj : error LNK2001: unresolved external symbol _IMG_Init
+Game.obj : error LNK2001: unresolved external symbol _TTF_CloseFont
+Game.obj : error LNK2001: unresolved external symbol _TTF_OpenFont
+Game.obj : error LNK2001: unresolved external symbol _SDL_PollEvent
+Game.obj : error LNK2001: unresolved external symbol _SDL_FreeSurface
+Game.obj : error LNK2001: unresolved external symbol _SDL_RenderDrawLine
+Game.obj : error LNK2001: unresolved external symbol _IMG_Load
+Game.obj : error LNK2001: unresolved external symbol _SDL_CreateRenderer
+Game.obj : error LNK2001: unresolved external symbol _SDL_RenderPresent
+Game.obj : error LNK2001: unresolved external symbol _SDL_CreateWindow
+Game.obj : error LNK2001: unresolved external symbol _Mix_PlayingMusic
+Game.obj : error LNK2001: unresolved external symbol _TTF_Quit
+Game.obj : error LNK2001: unresolved external symbol _Mix_LoadMUS
+Game.obj : error LNK2001: unresolved external symbol _SDL_SetRenderDrawColor
+Game.obj : error LNK2001: unresolved external symbol _SDL_CreateTextureFromSurface
+Game.obj : error LNK2001: unresolved external symbol _Mix_HaltMusic
+Game.obj : error LNK2001: unresolved external symbol _Mix_PlayMusic
+MSVCRT.lib(exe_main.obj) : error LNK2001: unresolved external symbol _main
+D:\VelocityVortex\Release\VelocityVortex.exe : fatal error LNK1120: 37 unresolved externals
