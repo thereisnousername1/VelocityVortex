@@ -1,5 +1,5 @@
 #pragma once
-#include "SDL2-2.28.4\include\SDL.h"
+#include "C:\public\SDL\SDL2-2.28.4\include\SDL.h"
 
 const int WINDOW_WIDTH = 800;
 const int WINDOW_HEIGHT = 600;

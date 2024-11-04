@@ -2,11 +2,11 @@
 #include <string>
 #include <vector>
 #include "Game.h"
-#include "SDL2-2.28.4\include\SDL.h"
-#include "SDL2_image-2.8.2\include\SDL_image.h"
+#include "C:\public\SDL\SDL2-2.28.4\include\SDL.h"
+#include "C:\public\SDL\SDL2_ttf-2.22.0\include\SDL_ttf.h"
+#include "C:\public\SDL\SDL2_image-2.8.2\include\SDL_image.h"
+#include "C:\public\SDL\SDL2_mixer-2.8.0\include\SDL_mixer.h"
 #include "Track.h"
-#include "SDL2_ttf-2.22.0\include\SDL_ttf.h"
-#include "SDL2_mixer-2.8.0\include\SDL_mixer.h"
 
 using namespace std;
 

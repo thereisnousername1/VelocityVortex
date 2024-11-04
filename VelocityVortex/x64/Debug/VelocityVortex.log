@@ -21,4 +21,10 @@ D:\VelocityVortex\Game.cpp(220,54): warning C4244: '+=': conversion from 'float'
 D:\VelocityVortex\Game.cpp(224,44): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
 D:\VelocityVortex\Game.cpp(227,28): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
 D:\VelocityVortex\Game.cpp(299,24): warning C4305: '+=': truncation from 'double' to 'float'
+  Menu.cpp
+D:\VelocityVortex\Menu.cpp(53,51): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\VelocityVortex\Menu.cpp(54,51): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\VelocityVortex\Menu.cpp(50,18): warning C4101: 'bgimage': unreferenced local variable
+  VelocityVortex.cpp
+  Generating Code...
   VelocityVortex.vcxproj -> D:\VelocityVortex\x64\Debug\VelocityVortex.exe

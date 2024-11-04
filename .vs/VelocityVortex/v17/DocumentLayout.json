@@ -3,32 +3,41 @@
   "WorkspaceRootPath": "D:\\VelocityVortex\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0DAE7567-5462-43EA-BCBB-A4EFA44FDEE1}|VelocityVortex.vcxproj|D:\\VelocityVortex\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0DAE7567-5462-43EA-BCBB-A4EFA44FDEE1}|VelocityVortex.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DAE7567-5462-43EA-BCBB-A4EFA44FDEE1}|VelocityVortex.vcxproj|D:\\VelocityVortex\\Track.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0DAE7567-5462-43EA-BCBB-A4EFA44FDEE1}|VelocityVortex.vcxproj|solutionrelative:Track.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DAE7567-5462-43EA-BCBB-A4EFA44FDEE1}|VelocityVortex.vcxproj|D:\\VelocityVortex\\VelocityVortex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0DAE7567-5462-43EA-BCBB-A4EFA44FDEE1}|VelocityVortex.vcxproj|solutionrelative:VelocityVortex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DAE7567-5462-43EA-BCBB-A4EFA44FDEE1}|VelocityVortex.vcxproj|D:\\VelocityVortex\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0DAE7567-5462-43EA-BCBB-A4EFA44FDEE1}|VelocityVortex.vcxproj|solutionrelative:Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0DAE7567-5462-43EA-BCBB-A4EFA44FDEE1}|VelocityVortex.vcxproj|D:\\VelocityVortex\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DAE7567-5462-43EA-BCBB-A4EFA44FDEE1}|VelocityVortex.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0DAE7567-5462-43EA-BCBB-A4EFA44FDEE1}|VelocityVortex.vcxproj|D:\\VelocityVortex\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0DAE7567-5462-43EA-BCBB-A4EFA44FDEE1}|VelocityVortex.vcxproj|solutionrelative:Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DAE7567-5462-43EA-BCBB-A4EFA44FDEE1}|VelocityVortex.vcxproj|D:\\VelocityVortex\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0DAE7567-5462-43EA-BCBB-A4EFA44FDEE1}|VelocityVortex.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0DAE7567-5462-43EA-BCBB-A4EFA44FDEE1}|VelocityVortex.vcxproj|D:\\VelocityVortex\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DAE7567-5462-43EA-BCBB-A4EFA44FDEE1}|VelocityVortex.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAE7567-5462-43EA-BCBB-A4EFA44FDEE1}|VelocityVortex.vcxproj|D:\\VelocityVortex\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DAE7567-5462-43EA-BCBB-A4EFA44FDEE1}|VelocityVortex.vcxproj|solutionrelative:Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAE7567-5462-43EA-BCBB-A4EFA44FDEE1}|VelocityVortex.vcxproj|D:\\VelocityVortex\\VelocityVortex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DAE7567-5462-43EA-BCBB-A4EFA44FDEE1}|VelocityVortex.vcxproj|solutionrelative:VelocityVortex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAE7567-5462-43EA-BCBB-A4EFA44FDEE1}|VelocityVortex.vcxproj|C:\\PUBLIC\\SDL\\SDL2_TTF-2.22.0\\INCLUDE\\SDL_TTF.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAE7567-5462-43EA-BCBB-A4EFA44FDEE1}|VelocityVortex.vcxproj|D:\\VelocityVortex\\Track.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DAE7567-5462-43EA-BCBB-A4EFA44FDEE1}|VelocityVortex.vcxproj|solutionrelative:Track.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0DAE7567-5462-43EA-BCBB-A4EFA44FDEE1}|VelocityVortex.vcxproj|D:\\VelocityVortex\\Constants.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0DAE7567-5462-43EA-BCBB-A4EFA44FDEE1}|VelocityVortex.vcxproj|solutionrelative:Constants.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAE7567-5462-43EA-BCBB-A4EFA44FDEE1}|VelocityVortex.vcxproj|C:\\PUBLIC\\SDL\\SDL2_MIXER-2.8.0\\INCLUDE\\SDL_MIXER.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAE7567-5462-43EA-BCBB-A4EFA44FDEE1}|VelocityVortex.vcxproj|C:\\PUBLIC\\SDL\\SDL2_IMAGE-2.8.2\\INCLUDE\\SDL_IMAGE.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,24 +47,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
+              "Title": "SDL_mixer.h",
+              "DocumentMoniker": "C:\\public\\SDL\\SDL2_mixer-2.8.0\\include\\SDL_mixer.h",
+              "ToolTip": "C:\\public\\SDL\\SDL2_mixer-2.8.0\\include\\SDL_mixer.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-04T22:26:06.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SDL_image.h",
+              "DocumentMoniker": "C:\\public\\SDL\\SDL2_image-2.8.2\\include\\SDL_image.h",
+              "ToolTip": "C:\\public\\SDL\\SDL2_image-2.8.2\\include\\SDL_image.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-04T22:25:43.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SDL_ttf.h",
+              "DocumentMoniker": "C:\\public\\SDL\\SDL2_ttf-2.22.0\\include\\SDL_ttf.h",
+              "ToolTip": "C:\\public\\SDL\\SDL2_ttf-2.22.0\\include\\SDL_ttf.h",
+              "ViewState": "AgIAAPcIAAAAAAAAAAAAAAkJAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-04T22:25:14.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Game.cpp",
               "DocumentMoniker": "D:\\VelocityVortex\\Game.cpp",
               "RelativeDocumentMoniker": "Game.cpp",
               "ToolTip": "D:\\VelocityVortex\\Game.cpp",
               "RelativeToolTip": "Game.cpp",
-              "ViewState": "AgIAAEcBAAAAAAAAAAAAABQBAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-18T14:41:34.835Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "VelocityVortex.cpp",
               "DocumentMoniker": "D:\\VelocityVortex\\VelocityVortex.cpp",
               "RelativeDocumentMoniker": "VelocityVortex.cpp",
@@ -68,52 +110,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Track.h",
               "DocumentMoniker": "D:\\VelocityVortex\\Track.h",
               "RelativeDocumentMoniker": "Track.h",
               "ToolTip": "D:\\VelocityVortex\\Track.h",
               "RelativeToolTip": "Track.h",
-              "ViewState": "AgIAAHwAAAAAAAAAAAAAAJQAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-10-21T19:18:48.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Constants.h",
               "DocumentMoniker": "D:\\VelocityVortex\\Constants.h",
               "RelativeDocumentMoniker": "Constants.h",
               "ToolTip": "D:\\VelocityVortex\\Constants.h",
               "RelativeToolTip": "Constants.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-10-18T14:51:34.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Game.h",
               "DocumentMoniker": "D:\\VelocityVortex\\Game.h",
               "RelativeDocumentMoniker": "Game.h",
               "ToolTip": "D:\\VelocityVortex\\Game.h",
               "RelativeToolTip": "Game.h",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAACEAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-10-18T14:41:30.887Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Menu.h",
               "DocumentMoniker": "D:\\VelocityVortex\\Menu.h",
               "RelativeDocumentMoniker": "Menu.h",
               "ToolTip": "D:\\VelocityVortex\\Menu.h",
               "RelativeToolTip": "Menu.h",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBUAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-10-20T22:11:43.789Z",
               "EditorCaption": ""
@@ -126,7 +168,7 @@
               "RelativeDocumentMoniker": "Menu.cpp",
               "ToolTip": "D:\\VelocityVortex\\Menu.cpp",
               "RelativeToolTip": "Menu.cpp",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAAABEAAABbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-20T21:27:26.365Z",
               "EditorCaption": ""

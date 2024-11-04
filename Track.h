@@ -1,6 +1,6 @@
 #pragma once
-#include "SDL2-2.28.4\include\SDL.h"
-#include "SDL2_image-2.8.2\include\SDL_image.h"
+#include "C:\public\SDL\SDL2-2.28.4\include\SDL.h"
+#include "C:\public\SDL\SDL2_image-2.8.2\include\SDL_image.h"
 #include "Constants.h"
 
 using namespace std;
